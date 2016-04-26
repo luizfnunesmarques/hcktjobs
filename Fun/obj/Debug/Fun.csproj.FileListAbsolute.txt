@@ -1,0 +1,6 @@
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\obj\Debug\Fun.csprojResolveAssemblyReference.cache
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\bin\Debug\MeuApp.exe.config
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\bin\Debug\MeuApp.exe
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\bin\Debug\MeuApp.pdb
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\obj\Debug\MeuApp.exe
+E:\DropBox\Dropbox\Sources\C#\Fun\Fun\obj\Debug\MeuApp.pdb
